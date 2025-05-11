@@ -131,11 +131,3 @@ top_recs.show()
 
 ---
 
-## 📌 Notes
-
-- Ensure the CSV file exists at the given path (`/content/merged_movie_df.csv`)
-- Works best on Google Colab or an environment where Spark can run
-- Cold-start users or items (new users or new movies) will be dropped
-
----
-
